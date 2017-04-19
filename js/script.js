@@ -5,7 +5,7 @@ $(function(){
     // You must supply a Trove API key
     var troveAPIKey = 'li4nkkjvjj0iunj5';
     // Either provide full API query here or include options below
-    var apiQuery = 'feminist feminism feminists';
+    var apiQuery = 'feminists';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
     var keywords = 'all';
