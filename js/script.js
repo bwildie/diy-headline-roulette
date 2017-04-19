@@ -8,7 +8,7 @@ $(function(){
     var apiQuery = 'feminists';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'all';
+    var keywords = 'any';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
