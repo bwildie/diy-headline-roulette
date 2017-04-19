@@ -13,7 +13,7 @@ $(function(){
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
-    var titles = '';
+    var titles = '35';
     // Add a byline, eg:
     var byline = 'Created by <a>Bonnie</a>.'
     // var byline = '';
