@@ -5,12 +5,12 @@ $(function(){
     // You must supply a Trove API key
     var troveAPIKey = 'li4nkkjvjj0iunj5';
     // Either provide full API query here or include options below
-    var apiQuery = 'feminists feminism';
+    var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'any';
+    var keywords = 'feminists feminism feminist';
     // How you want to combine keywords -- all, any, or phrase
-    var keywordType = 'all'
+    var keywordType = 'any'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
     var titles = '35';
