@@ -15,7 +15,7 @@ $(function(){
     // var titles = '840 35';
     var titles = '';
     // Add a byline, eg:
-    var byline = 'Created by <a>Bonnie from these amazing instructions --> http://timsherratt.org/digital-heritage-handbook/courses/from-trove-to-tweets/</a>.'
+    var byline = 'Created by <a>Bonnie</a>.'
     // var byline = '';
     // Add a tagline
     var tagline = 'How well do you know your feminist Australian history?';
